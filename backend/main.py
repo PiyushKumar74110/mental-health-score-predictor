@@ -14,7 +14,7 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://mental-health-score-predictor-pearl.vercel.app"],
+    allow_origins=["https://mental-health-score-predictor-2-hykc.onrender.com"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
