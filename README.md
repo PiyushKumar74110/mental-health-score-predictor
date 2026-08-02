@@ -62,8 +62,8 @@ MindSense-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/MindSense-AI.git
-cd MindSense-AI
+git clone https://github.com/PiyushKumar74110/mental-health-score-predictor.git
+cd mental-health-score-predictor
 ```
 
 ### 2. Install backend dependencies
